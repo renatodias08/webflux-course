@@ -3,5 +3,5 @@ server:
 spring:
   data:
     mongodb:
-      uri: 'mongodb+srv://renatodias08:1185rd@webfluxcoursecluster.ez8zcpu.mongodb.net/webflux-curses?retryWrites=true&w=majority'
+      uri: 'mongodb+srv://renatodias08:@webfluxcoursecluster.ez8zcpu.mongodb.net/webflux-curses?retryWrites=true&w=majority'
   
